@@ -13,4 +13,4 @@ Use `create-react-app` to create React application and then make all necessary s
 Good Luck!
 
 
-![alt text](https://github.com/misheil/CRUD-React-Redux/blob/master/public/img/project.gif)
+![alt text](https://raw.githubusercontent.com/misheil/CRUD-React-Redux/master/public/project.gif)
